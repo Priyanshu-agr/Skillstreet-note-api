@@ -1,8 +1,10 @@
 ## Notes API
 
-- To run on local machine:
+#### To run on local machine:
 
 - Create a .env file in root directory and assign your mongodb url to a variable named DB_CONNECT
-- npm --env-file .env index.js
+- Use the command **node --env-file .env index.js** to start the server
 
-**go to localhost:3000/api-docs to test the api**
+**Go to localhost:3000/api-docs to test the api**
+
+**The nodejs version used is 20.10.0**
